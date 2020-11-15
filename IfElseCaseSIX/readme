@@ -1,0 +1,5 @@
+1) Get the value of three integers from the console.
+2) Choose the largest of the three numbers.
+3) Print the number to the console.
+4) Compare the number for parity (using a switch)
+5) Check for <100 using the ternary operator.
