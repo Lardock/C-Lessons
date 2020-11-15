@@ -1,0 +1,13 @@
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.exe
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.deps.json
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.runtimeconfig.json
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.runtimeconfig.dev.json
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.dll
+C:\Users\lardo\source\repos\IfElseCaseSIX\bin\Debug\netcoreapp3.1\IfElseCaseSIX.pdb
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.csprojAssemblyReference.cache
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.AssemblyInfoInputs.cache
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.AssemblyInfo.cs
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.csproj.CoreCompileInputs.cache
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.dll
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.pdb
+C:\Users\lardo\source\repos\IfElseCaseSIX\obj\Debug\netcoreapp3.1\IfElseCaseSIX.genruntimeconfig.cache
