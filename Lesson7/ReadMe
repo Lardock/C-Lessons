@@ -1,0 +1,7 @@
+This homework.
+1) Create a collection of integers (10 items).
+2) Fill in with data from the user (with verification).
+3) Calculate the sum of all elements of the collection (for)
+4) Calculate the difference of all elements (while).
+5) Count the product (do while).
+6) Display the collection (foreach).
