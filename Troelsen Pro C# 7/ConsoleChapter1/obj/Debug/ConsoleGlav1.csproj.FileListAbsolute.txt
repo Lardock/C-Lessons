@@ -1,7 +1,0 @@
-C:\Users\lardo\Desktop\ConsoleGlav1\bin\Debug\ConsoleGlav1.exe.config
-C:\Users\lardo\Desktop\ConsoleGlav1\bin\Debug\ConsoleGlav1.exe
-C:\Users\lardo\Desktop\ConsoleGlav1\bin\Debug\ConsoleGlav1.pdb
-C:\Users\lardo\Desktop\ConsoleGlav1\obj\Debug\ConsoleGlav1.csprojAssemblyReference.cache
-C:\Users\lardo\Desktop\ConsoleGlav1\obj\Debug\ConsoleGlav1.csproj.CoreCompileInputs.cache
-C:\Users\lardo\Desktop\ConsoleGlav1\obj\Debug\ConsoleGlav1.exe
-C:\Users\lardo\Desktop\ConsoleGlav1\obj\Debug\ConsoleGlav1.pdb
