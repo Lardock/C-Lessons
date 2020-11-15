@@ -1,7 +1,0 @@
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\bin\Debug\Lesson7.exe.config
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\bin\Debug\Lesson7.exe
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\bin\Debug\Lesson7.pdb
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\obj\Debug\Lesson7.exe
-C:\Users\lardo\Desktop\C#\ForForeachWhileDo7\Lesson7\obj\Debug\Lesson7.pdb
