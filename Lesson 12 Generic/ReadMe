@@ -1,0 +1,2 @@
+1) Define the base class and several descendants.
+2) Create a class that will accept the base class as a generic type.
