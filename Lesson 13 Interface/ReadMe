@@ -1,0 +1,3 @@
+1) Define an interface containing methods and properties.
+2) Determine the interface inheriting from the first interface (more methods).
+3) Implement the second interface.
